@@ -1,4 +1,8 @@
-# Leonardo-Phy
+opaaannn!!! Eu sou leonardo e eu sou o dev da madrugada🐱‍👤🐱‍👤
+- 😎 Estou cursando Análise e desenvolvimento de sistema na UNIT
+- 🐱‍💻 Minha linguagem mais forte é Java (☕ xicrinha de café, hummm)
+- 🐱‍👓 Minha linguagem mais fraca é o Russo (Vai entender, né?)
+
 <div align="center">
   <a href="https://github.com/LeonardoPhy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoPhy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
