@@ -3,7 +3,6 @@ opaaannn!!! Eu sou leonardo, um dev em desenvolvimento 🐱‍👤🐱‍👤
 - 🐱‍💻 A Minha linguagem mais forte é Java (☕ xicrinha de café, hummm)
 - 🐱‍👓 A Minha linguagem mais fraca é o Russo (Vai entender, né?)
 
-
 <div align="center">
   <a href="https://github.com/LeonardoPhy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoPhy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
