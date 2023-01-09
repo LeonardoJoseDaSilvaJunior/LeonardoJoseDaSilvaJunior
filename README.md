@@ -1,7 +1,9 @@
 opaaannn!!! Eu sou leonardo, um dev em desenvolvimento 🐱‍👤🐱‍👤
 - 😎 Eu estou cursando Análise e desenvolvimento de sistema na UNIT;
 - 🐱‍💻 A Minha linguagem mais forte é Java (☕ xicrinha de café, hummm)
-- 🐱‍👓 A Minha linguagem mais fraca é o Russo (Vai entender, né?)
+- 🐱‍👓 A Minha linguagem mais fraca é o Russo (Vai entender, né?) kkkkkk 
+Brincadeiras à parte, eu sou um programador iniciante, logo não tenho muito conhecimento em outras linguagens, 
+porém tento saber o minímo para que posteriormente eu possa ser mais versátil.
 
 <div align="center">
   <a href="https://github.com/LeonardoJoseDaSilvaJunior">
