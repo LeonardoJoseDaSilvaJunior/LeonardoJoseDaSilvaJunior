@@ -7,7 +7,7 @@ porém tento saber o minímo para que posteriormente eu possa ser mais versátil
 
 <div align="center">
   <a href="https://github.com/LeonardoJoseDaSilvaJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoJoseDaSilvaJunior&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/LeonardoJoseDaSilvaJunior&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJoseDaSilvaJunior&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
@@ -19,6 +19,5 @@ porém tento saber o minímo para que posteriormente eu possa ser mais versátil
 </div>
  ________________________________
 <div> 
-
   <a href="https://www.linkedin.com/in/leonardo-junior-8a8797214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
